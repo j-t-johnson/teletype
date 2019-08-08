@@ -340,6 +340,12 @@
         "CY.POS"      => { MATCH_OP(E_OP_CY_POS); };
         "CY.REV"      => { MATCH_OP(E_OP_CY_REV); };
         "CY.CV"       => { MATCH_OP(E_OP_CY_CV); };
+        "CR.PRE"      => { MATCH_OP(E_OP_CR_PRE); };
+        "CR.ACT"      => { MATCH_OP(E_OP_CR_ACT); };
+        "CR.DIR"      => { MATCH_OP(E_OP_CR_DIR); };
+        "CR.CHAIN"    => { MATCH_OP(E_OP_CR_CHAIN); };
+        "CR.TIME"     => { MATCH_OP(E_OP_CR_TIME); };
+        "CR.LOOP"     => { MATCH_OP(E_OP_CR_LOOP); };
         "MID.SHIFT"   => { MATCH_OP(E_OP_MID_SHIFT); };
         "MID.SLEW"    => { MATCH_OP(E_OP_MID_SLEW); };
         "ARP.STY"     => { MATCH_OP(E_OP_ARP_STY); };

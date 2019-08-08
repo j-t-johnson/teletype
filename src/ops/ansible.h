@@ -47,6 +47,13 @@ extern const tele_op_t op_CY_POS;
 extern const tele_op_t op_CY_REV;
 extern const tele_op_t op_CY_CV;
 
+extern const tele_op_t op_CR_PRE;
+extern const tele_op_t op_CR_ACT;
+extern const tele_op_t op_CR_DIR;
+extern const tele_op_t op_CR_CHAIN;
+extern const tele_op_t op_CR_TIME;
+extern const tele_op_t op_CR_LOOP;
+
 extern const tele_op_t op_MID_SHIFT;
 extern const tele_op_t op_MID_SLEW;
 
